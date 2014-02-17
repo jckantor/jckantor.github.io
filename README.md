@@ -1,4 +1,4 @@
-My Github Repositories
+Github Repositories
 ======================
 
 * [CBE20255](http://jckantor.github.io/CBE20255)
