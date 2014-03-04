@@ -8,6 +8,7 @@ Github Repositories
 * [CBE40455](http://jckantor.github.io/CBE40455) Process Operations
 * [ESTM60203](http://jckantor.github.io/ESTM60203) Introduction to Operations Research
 
-## Tools
+## Resources
 
 * [Mathprog](http://www3.nd.edu/~jeff/mathprog/) glpk/mathprog in the browser using [glpk.js](http://hgourvest.github.io/glpk.js/)
+* [stock.m](https://gist.github.com/jckantor/9355655) A Matlab class for obtaining quotes from Yahoo Finance
