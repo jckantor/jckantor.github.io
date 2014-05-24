@@ -10,6 +10,7 @@ Github Repositories
 
 ## Resources
 
+* [apmonitor.m](https://gist.github.com/jckantor/b1678f34c8fd0347e77b) A Matlab class for processing APMonitor models on remote servers.
 * [Mathprog](http://www3.nd.edu/~jeff/mathprog/) glpk/mathprog in the browser using [glpk.js](http://hgourvest.github.io/glpk.js/)
 * [stock.m](https://gist.github.com/jckantor/9355655) A Matlab class for obtaining quotes from Yahoo Finance
-* [apmonitor.m](https://gist.github.com/jckantor/b1678f34c8fd0347e77b) A Matlab class for processing APMonitor models on remote servers.
+
