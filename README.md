@@ -14,3 +14,7 @@ Github Repositories
 * [Mathprog](http://www3.nd.edu/~jeff/mathprog/) glpk/mathprog in the browser using [glpk.js](http://hgourvest.github.io/glpk.js/)
 * [stock.m](https://gist.github.com/jckantor/9355655) A Matlab class for obtaining quotes from Yahoo Finance
 
+## Other Projects
+
+* [Rainy Lake Hydrology](http://jckantor.github.io/Rainy-Lake-Hydrology/) Analysis and modeling of lake levels and flows on the Namakan Reservoir / Rainy Lake / Rainy River system.
+
