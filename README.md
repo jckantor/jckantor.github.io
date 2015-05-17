@@ -18,4 +18,5 @@ Github Repositories
 ## Other Projects
 
 * [Rainy Lake Hydrology](http://jckantor.github.io/Rainy-Lake-Hydrology/) Analysis and modeling of lake levels and flows on the Namakan Reservoir / Rainy Lake / Rainy River system.
+* [Airbag Design for Cargo Airdrop](http://jckantor.github.io/Airbag-Design-for-Cargo-Airdrop/) IPython notebooks for the simulation and control of airbags for cargo airdrops.
 
