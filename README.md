@@ -12,16 +12,16 @@ a senior elective course on chemical process operations.
 
 ## Utilities
 
-* [TCLab](https://github.com/jckantor/TCLab) Python module for accessing the
+* [TCLab](https://github.com/jckantor/TCLab). Python module for accessing the
 [Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl), an
  Arduino based device for hands-on learning of process control.
 * [TCLanb-sketch](https://github.com/jckantor/TCLab-sketch). An Arduino sketch for download and installation
 on the [Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl).
 that implements a simple communications protocol.
-* [nbpages](https://github.com/jckantor/nbpages) A command line tool to maintain a repository of Jupyter 
+* [nbpages](https://github.com/jckantor/nbpages). A command line tool to maintain a repository of Jupyter 
 notebooks.
 
 ## Older Projects
 
 * [ESTM60203 Introduction to Operations Research](http://jckantor.github.io/ESTM60203) 
-* [Rainy Lake Hydrology](http://jckantor.github.io/Rainy-Lake-Hydrology/) Analysis and modeling of lake levels and flows on the Namakan Reservoir / Rainy Lake / Rainy River system.
+* [Rainy Lake Hydrology](http://jckantor.github.io/Rainy-Lake-Hydrology/). Analysis and modeling of lake levels and flows on the Namakan Reservoir / Rainy Lake / Rainy River system.
