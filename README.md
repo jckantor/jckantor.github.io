@@ -17,7 +17,7 @@ demonstrating the modeling of chemical processes and other systems in Pyomo.
 * [TCLab](https://github.com/jckantor/TCLab). Python module for accessing the
 [Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl), an
  Arduino based device for hands-on learning of process control.
-* [TCLanb-sketch](https://github.com/jckantor/TCLab-sketch). An Arduino sketch for download and installation
+* [TCLab-sketch](https://github.com/jckantor/TCLab-sketch). An Arduino sketch for download and installation
 on the [Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl).
 that implements a simple communications protocol.
 * [nbpages](https://github.com/jckantor/nbpages). A command line tool to maintain a repository of Jupyter 
