@@ -9,6 +9,8 @@ notebooks covering topics in process control, including hands-on use of the
 [Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
 * [CBE40455 Process Operations](http://jckantor.github.io/CBE40455). Over 40 notebooks covering topics for
 a senior elective course on chemical process operations.
+* [ND Pyomo Cookbook](https://jckantor.github.io/ND-Pyomo-Cookbook/). A selection of Jupyter notebooks
+demonstrating the modeling of chemical processes and other systems in Pyomo.
 
 ## Utilities
 
