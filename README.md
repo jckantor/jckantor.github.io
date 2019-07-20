@@ -9,12 +9,12 @@ notebooks covering topics in process control, including hands-on use of the
 [Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl)
 * [CBE40455 Process Operations](http://jckantor.github.io/CBE40455). Over 40 notebooks covering topics for
 a senior elective course on chemical process operations.
-* [TCLab](https://github.com/jckantor/TCLab) Software support for the
-[Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl), an
- Arduino based device for hands-on learning of process control.
 
 ## Utilities
 
+* [TCLab](https://github.com/jckantor/TCLab) Software support for the
+[Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl), an
+ Arduino based device for hands-on learning of process control.
 * [nbpages](https://github.com/jckantor/nbpages) A command line tool to maintain a repository of Jupyter 
 notebooks.
 
