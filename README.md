@@ -6,7 +6,7 @@
 of over 40 Jupyter notebooks covering topics traditionally covered in an introductory course in chemical engineering.
 * [CBE30338 Chemical Process Control](https://jckantor.github.io/CBE30338).  A collection of over 70 Jupyter
 notebooks covering topics in process control
-* [CBE32338 Chemical Process Control Laboratory](https://jckantor.github.io/CBE30338) A collection of notebooks demonstrating the application of topics in control theory using the [Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl).
+* [CBE32338 Chemical Process Control Laboratory](https://jckantor.github.io/CBE32338) A collection of notebooks demonstrating the application of topics in control theory using the [Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl).
 * [CBE40455 Process Operations](https://jckantor.github.io/CBE40455). Over 40 notebooks covering topics for
 a senior elective course on chemical process operations.
 * [ND Pyomo Cookbook](https://jckantor.github.io/ND-Pyomo-Cookbook/). A selection of Jupyter notebooks
