@@ -11,7 +11,7 @@ notebooks covering topics in process control
 a senior elective course on chemical process operations.
 * [ND Pyomo Cookbook](https://jckantor.github.io/ND-Pyomo-Cookbook/). A selection of Jupyter notebooks
 demonstrating the modeling of chemical processes and other systems in Pyomo.
-* [COVID-19](https://jckantor.gitjub.io/convid-19/)
+* [COVID-19](https://jckantor.github.io/convid-19/)
 
 ## Utilities
 
