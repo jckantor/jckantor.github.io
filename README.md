@@ -9,6 +9,7 @@ of over 40 Jupyter notebooks covering topics traditionally covered in an introdu
 * [CBE32338 Chemical Process Control Laboratory](https://jckantor.github.io/CBE32338) A collection of notebooks demonstrating the application of topics in control theory using the [Temperature Control Laboratory](http://apmonitor.com/pdc/index.php/Main/ArduinoTemperatureControl).
 * [CBE40455 Process Operations](https://jckantor.github.io/CBE40455). Over 40 notebooks covering topics for
 a senior elective course on chemical process operations.
+* [CBE Virtual Laboratory](https://jckantor.github.io/cbe-virtual-laboratory/). A preliminary collection of notebooks showing how to code for the Internet of Things (IoT) using Jupyter notebooks.
 * [ESTM60203 Introduction to Operations Research](http://jckantor.github.io/ESTM60203).
 * [ND Pyomo Cookbook](https://jckantor.github.io/ND-Pyomo-Cookbook/). A selection of Jupyter notebooks
 demonstrating the modeling of chemical processes and other systems in Pyomo.
